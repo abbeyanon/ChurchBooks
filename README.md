@@ -5,7 +5,7 @@
 ## 📦 Apps Included
 
 - `cfms_plus`: An Enhanced Church Finance and ERP System
-- `lms`: A Learning Management System for church training and discipleship (coming soon)
+- `lms`: A Learning Management System for church training and discipleship 
 
 ---
 
