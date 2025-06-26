@@ -1,0 +1,33 @@
+{
+ "cards": [],
+ "charts": [
+  {
+   "chart": "Engagement Score Trend",
+   "width": "Full"
+  },
+  {
+   "chart": "Top Session Durations",
+   "width": "Full"
+  },
+  {
+   "chart": "Completion Rate Trend",
+   "width": "Full"
+  },
+  {
+   "chart": "Device Type Breakdown",
+   "width": "Full"
+  }
+ ],
+ "creation": "2025-06-26 11:43:37.335614",
+ "dashboard_name": "Learning Engagement Metrics Dashboard",
+ "docstatus": 0,
+ "doctype": "Dashboard",
+ "idx": 0,
+ "is_default": 0,
+ "is_standard": 1,
+ "modified": "2025-06-26 11:57:56.658198",
+ "modified_by": "Administrator",
+ "module": "LMS APP",
+ "name": "Learning Engagement Metrics Dashboard",
+ "owner": "Administrator"
+}
