@@ -18,7 +18,14 @@
 - Member-linked giving and auto-journal entries
 - Daily scheduler for updating event statuses
 - Custom Workflows, Roles, Email Templates, and Client Scripts
+  
+### 2. `lms`: Learning Management System
 
+- Courses and programs  
+- Trainer & student enrollment  
+- Certification generation  
+- Events-based training management  
+- Workflow and user-role permissions
 ---
 
 ## ⚙️ Installation Guide
@@ -26,7 +33,7 @@
 Follow these steps to get started with ChurchBooks:
 Note: Ensure you have a working Frappe Bench And ERPnext
 
-### 🚀 Full Installation Steps (1–4 Combined)
+### 🚀 Full Installation Steps 
 
 ```bash
 # Step 1: Clone the ChurchBooks repo and move the apps into bench
